@@ -1,1 +1,3 @@
-# AINLP-Resource
+# AINLP Resource
+
+AINLP公众号相关资源的一些备份，包括博客早期的一些资源、以及来自技术交流群相关同学的贡献，慢慢做个记录
