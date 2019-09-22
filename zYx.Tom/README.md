@@ -1,4 +1,4 @@
-# xYx.tom 同学的NLP读书笔记和NLTK中文注释代码
+# zYx.Tom 同学的NLP读书笔记和NLTK中文注释代码
 
 AINLP技术交流群里 zYx.tom 同学贡献给大家的两份NLP读书笔记和一份中文注释代码，包括:
 
